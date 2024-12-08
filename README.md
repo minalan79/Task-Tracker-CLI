@@ -41,7 +41,7 @@ tasklist mark-in-progress <task_id>
 tasklist delete <task_id>
 ```
 
-## Project page URL
+## Project URL
 https://roadmap.sh/projects/task-tracker
 
 ## License
