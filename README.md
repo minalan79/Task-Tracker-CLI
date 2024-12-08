@@ -41,5 +41,5 @@ tasklist mark-in-progress <task_id>
 tasklist delete <task_id>
 ```
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
